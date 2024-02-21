@@ -47,6 +47,8 @@ img{
 }
 
 .butao{
+    text-decoration: none;
+    color: black;
     background-color: white;
     font-size: 200%;
     display: flex;
